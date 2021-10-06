@@ -1,0 +1,20 @@
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\bin\Debug\Şifre Üret.exe.config
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\bin\Debug\Şifre Üret.exe
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\bin\Debug\Şifre Üret.pdb
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.csprojAssemblyReference.cache
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\RandomCov2.Form1.resources
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.Properties.Resources.resources
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.csproj.GenerateResource.cache
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.csproj.CoreCompileInputs.cache
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\Şifre Üret.exe
+D:\MY WORK\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\Şifre Üret.pdb
+E:\DESKTOPSAPP\SifreUret\SifreUret\bin\Debug\SifreUret.exe.config
+E:\DESKTOPSAPP\SifreUret\SifreUret\bin\Debug\SifreUret.exe
+E:\DESKTOPSAPP\SifreUret\SifreUret\bin\Debug\SifreUret.pdb
+E:\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.csprojAssemblyReference.cache
+E:\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\RandomCov2.Form1.resources
+E:\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.Properties.Resources.resources
+E:\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.csproj.GenerateResource.cache
+E:\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.csproj.CoreCompileInputs.cache
+E:\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.exe
+E:\DESKTOPSAPP\SifreUret\SifreUret\obj\Debug\SifreUret.pdb
